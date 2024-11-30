@@ -14,5 +14,70 @@ This is a crucial step in software development as it helps all stake holders to 
 
 ## Why is Requirement Analysis Important?
 The following are the benefits of requirements analysis:
-- **Cost & time estimation**: Helps accurate budgeting before a project is put in motion
-- **Clarity & Understanding**: I helps in elaborating what both the developers and the endusers should expect the developed software to be doing.
+- **Cost & time estimation:** Helps accurate budgeting before a project is put in motion
+- **Clarity & understanding:** I helps in elaborating what both the developers and the endusers should expect the developed software to be doing.
+- **Scope definition:** It clearly defines a project's duration and resources required preventing scope creep.
+- **Basis for design and development:** Provides a solid foundation for system design and development.
+- **Quality Assurance:** Ensures that the final product meets specified requirements for quality user satisfaction.
+
+
+---
+
+## Key Activities in Requirement Analysis  
+
+### Requirement Gathering  
+- **Interviews**: Conduct one-on-one sessions with stakeholders to identify their needs and expectations.  
+- **Surveys/Questionnaires**: Distribute structured forms to collect input from a larger audience.  
+- **Workshops**: Organize group discussions with stakeholders to align and gather requirements.  
+- **Observation**: Observe end-users in their working environment to understand their workflows.  
+- **Document Analysis**: Review existing documentation and systems to identify current functionalities and gaps.  
+
+### Requirement Elicitation  
+- **Brainstorming**: Conduct group sessions to generate ideas and capture diverse requirements.  
+- **Focus Groups**: Hold discussions with selected stakeholders for detailed insights.  
+- **Prototyping**: Create visual or functional prototypes to refine and validate requirements.  
+
+### Requirement Documentation  
+- **Requirement Specification Document**: Prepare a detailed document listing all functional and non-functional requirements.  
+- **User Stories**: Write narrative descriptions to represent functionalities from the user’s perspective.  
+- **Use Cases**: Develop diagrams to illustrate interactions between users and the system.  
+
+### Requirement Analysis and Modeling  
+- **Requirement Prioritization**: Rank requirements by importance and project impact.  
+- **Feasibility Analysis**: Evaluate technical, financial, and time constraints of the requirements.  
+- **Modeling**: Use tools like data flow diagrams or entity-relationship diagrams to represent and analyze requirements.  
+
+### Requirement Validation  
+- **Verification**: Ensure requirements are complete, consistent, and clear.  
+- **Stakeholder Review**: Present requirements to stakeholders for approval and feedback.  
+- **Traceability**: Map requirements to ensure alignment with project goals and objectives.  
+
+
+---
+
+## Types of Requirements  
+
+### Functional Requirements ⚙️  
+- **Definition**: Describe what the system should do.  
+- **Examples**: User authentication, property search, booking system, user registration.  
+
+#### Key Functional Requirements:  
+- **Search Properties**: Enable users to search for properties based on location, price, and availability.  
+- **User Registration**: Allow new users to create accounts with personal details and login credentials.  
+- **Property Listings**: Display property details, including images and essential information.  
+- **Booking System**: Provide functionality for booking properties, viewing booking details, and managing bookings.  
+- **User Authentication**: Ensure secure login and registration processes for all users.  
+
+### Non-functional Requirements 🛡️  
+- **Definition**: Describe how the system should perform.  
+- **Examples**: Performance, security, scalability, usability, reliability.  
+
+#### Key Non-functional Requirements:  
+- **Performance**: Pages should load within 2 seconds and support up to 1000 concurrent users.  
+- **Security**: Implement data encryption, secure logins, and protection against vulnerabilities.  
+- **Scalability**: Ensure the system can scale horizontally to handle increased traffic.  
+- **Usability**: Design an intuitive UI/UX for easy navigation and task performance.  
+- **Reliability**: Maintain 99.9% uptime and enable quick recovery from failures.  
+
+---
+
