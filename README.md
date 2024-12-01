@@ -103,5 +103,26 @@ Use Case Diagrams provide a visual representation of interactions between users 
 
 ### Airbnb project Use case diagram
 
-![alt text](airbnb-project.drawio.png)
+![use case diagram](airbnb-project.drawio.png)
 ---
+
+## Acceptance Criteria ✅  
+
+### What is Acceptance Criteria?  
+Acceptance Criteria define specific conditions that a system or feature must satisfy to be accepted by stakeholders.
+
+### Importance of Acceptance Criteria  
+- **Clarity**: Provide a shared understanding of what the system should accomplish.  
+- **Validation**: Help stakeholders verify that requirements are met.  
+- **Scope Control**: Prevent scope creep by setting clear expectations for deliverables.  
+- **Testing**: Serve as a basis for creating test cases and validating functionalities.  
+
+### Example: Checkout Feature in a Booking Management System  
+**Feature**: Allow users to book a property and complete payment through the system.  
+
+**Acceptance Criteria**:  
+1. The user must be able to view a summary of their booking, including property details, dates, and total cost.  
+2. The system should support multiple payment methods, including credit/debit cards and online wallets.  
+3. Users must receive a confirmation email upon successful payment, including booking details and a receipt.  
+4. The system should handle payment failures gracefully and allow users to retry the transaction.  
+5. All payment data must be encrypted and comply with industry security standards (e.g., PCI DSS).   
