@@ -81,3 +81,27 @@ The following are the benefits of requirements analysis:
 
 ---
 
+## Use Case Diagrams 📊  
+
+### Objective  
+Illustrate the use of Use Case Diagrams in Requirement Analysis.  
+
+### What are Use Case Diagrams?  
+Use Case Diagrams provide a visual representation of interactions between users (actors) and the system to achieve specific goals (use cases). They depict how different user roles engage with various system functionalities.  
+
+### Creating Use Case Diagrams  
+1. **Identify Actors**: Determine the users or roles interacting with the system (e.g., guest, registered user, admin).  
+2. **Define Use Cases**: List the actions or goals users aim to accomplish (e.g., search properties, book property, manage listings).  
+3. **Draw Interactions**: Illustrate the relationships between actors and use cases to show how users achieve their goals.  
+
+### Benefits of Use Case Diagrams  
+- **Visual Clarity**: Provide a clear, graphical representation of system functionalities and user interactions.  
+- **Requirement Organization**: Help identify and structure system requirements effectively.  
+- **Enhanced Communication**: Serve as a common language for stakeholders and the development team, improving collaboration.  
+
+---
+
+### Airbnb project Use case diagram
+
+![alt text](airbnb-project.drawio.png)
+---
